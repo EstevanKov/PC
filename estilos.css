@@ -1,0 +1,31 @@
+@media (max-width:390px) {
+  body{
+    background-color: rgb(142, 238, 178);
+  }
+  #contenedor{
+    text-align: center;
+    color: rgb(158, 59, 216);
+    position: absolute;
+    width: 40%;
+    margin-left: 30%;
+}
+
+
+#boton{
+    margin-top: 10%;
+    width: 40%;
+    margin-left: 30%;
+    position:absolute;
+    font-size:100%;
+}
+
+.oculto {
+   margin-top: 1000px;
+   position:relative;
+  }
+
+  /*
+  .eo{
+    color: rgb(255, 0, 0);
+  }*/
+}
